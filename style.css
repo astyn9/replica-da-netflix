@@ -1,0 +1,202 @@
+html{color:white;
+background-color: black;
+font-family: sans-serif;}
+main{background-image:url(https://assets.nflxext.com/ffe/siteui/vlv3/9b3267c9-5086-4550-92f1-eddc22a1f78e/9e812db0-7402-4b86-a62d-cc985c0162d7/BR-pt-20211004-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+align-items: center;
+justify-content: center;
+display: flex;
+height:600px;
+width:1340px;}
+
+.netflix{color: red;
+align-items: center;
+justify-content: center;
+display: flex;
+margin-left:-50ch;
+margin-top: -3ch;
+font-family: sans-serif;
+font-size: 40px;
+}
+.entrar{align-items: center;
+justify-content: center;
+display: flex;
+margin-top: -90px;
+margin-left: 160ch;
+height: 35px;
+width: 80px;
+color: white;
+background-color: red;
+border-radius: 4px;
+border-width: 0px;}
+
+.p1 [class=text]{align-items:center;
+justify-content: center;
+display: flex;
+margin-top:70px;
+font-family: sans-serif;
+font-size: 45px;
+
+
+}
+.p1 p{align-items:center;
+justify-content: center;
+display: flex;
+font-family: sans-serif;
+font-size: 20px;
+}
+input[type=email]{
+height: 45px;
+width: 450px;
+align-items:center;
+justify-content: center;
+display: flex;
+margin-left:300px;
+}
+.vamos{align-items:center;
+justify-content: center;
+display: flex;
+margin-left: 67.9ch;
+margin-top: -50px;
+height: 49px;
+width: 140px;
+color: white;
+background-color: rgb(216, 12, 12);
+border-width: 0px;
+font-family: sans-serif;
+font-size: 20px;
+}
+
+h3{align-items:center;
+justify-content: center;
+display: flex;
+font-family: sans-serif;
+font-size: 25px;
+padding: 15px;}
+
+details {
+  width: 60%;
+  margin: 0 auto ;
+  background: #282828;
+  margin-bottom: .7rem;
+  box-shadow: 0 .1rem 1rem -.5rem rgba(0,0,0,.4);
+  border-radius: 0px;
+  overflow: hidden;
+ font-size: 25px;
+}
+
+summary {
+  padding: 1rem;
+  display: block;
+  background: #333;
+  padding-left: 2.2rem;
+  position: relative;
+  cursor: pointer;
+}
+
+summary:before {
+  content: '';
+  border-width: .4rem;
+  border-style: solid;
+  border-color: transparent transparent transparent #fff;
+  position: absolute;
+  top: 1.3rem;
+  left: 1rem;
+  transform: rotate(0);
+  transform-origin: .2rem 50%;
+  transition: .25s transform ease;
+}
+
+.barra1{background-color: rgb(73, 70, 70);
+height:8px;
+width: 1340px;}
+
+.kids h1{margin-left:29.10ch;
+font-size: 43px;
+margin-top:-300px;
+font-family: sans-serif; 
+;
+}
+.kids [class=text5]{margin-left:57ch;
+font-size: 22px;
+font-family:sans-serif;
+margin-bottom: 150px;}
+
+img{height: 400px;
+margin-left: 100px;}
+
+.offline{margin-left:42.10ch;
+font-size: 30px;
+font-family: sans-serif;
+margin-top: 8ch;
+margin-bottom: 70px;}
+
+.cell{height:330px;
+margin-left: -35ch;
+margin-top: -100px;
+position:absolute;
+}
+
+.tv{margin-left:7ch;
+font-size: 28px;
+font-family: sans-serif;
+margin-top: 12ch;
+margin-bottom: 50px;
+}
+
+.imgtv{margin-left:40ch;
+margin-top:-150px;
+position: absolute;}
+
+.assista{margin-left:7ch;
+font-size: 28px;
+font-family: sans-serif;
+margin-top: 12ch;
+margin-bottom: 150px;}
+
+.assistatv{margin-left:40ch;
+margin-top:-150px;
+position: absolute;}
+
+.final{align-items:center;
+justify-content: center;
+display: flex;
+font-size:20px;
+margin-left: 10px;
+font-weight: 400;
+font-family: sans-serif;}
+
+.perguntas{align-items:center;
+justify-content: center;
+display: flex;
+font-size: 45px;
+font-family: sans-serif;
+margin-left:-60px;}
+
+details summary::-webkit-details-marker {
+  display:none;
+}
+details[open] > summary:before {
+  transform: rotate(90deg);
+}
+
+.emailfinal{height: 45px;
+width: 450px;
+align-items:center;
+justify-content: center;
+display: flex;
+margin-left:50ch;
+margin-top:-1px;
+margin-bottom: -33px;}
+
+.vamosfinal{height: 51px;
+width: 140px;
+color: white;
+background-color: rgb(216, 12, 12);
+margin-left:74.6ch;
+margin-top:-116px;
+margin-bottom:40px;
+border-width: 0px;
+font-size: 20px;}
+
+a{text-decoration: none;
+color: white;}
