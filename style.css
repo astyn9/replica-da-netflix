@@ -173,7 +173,7 @@ font-family: sans-serif;
 margin-left:-60px;}
 
 details summary::-webkit-details-marker {
-  display:none;
+  display:flex;
 }
 details[open] > summary:before {
   transform: rotate(90deg);
@@ -200,3 +200,21 @@ font-size: 20px;}
 
 a{text-decoration: none;
 color: white;}
+
+
+  
+  @media only screen and (max-width: 500px) {
+    .perguntas{ display: flex; 
+    margin-left: 25ch;}}
+
+@media only screen and (max-width: 500px) {
+  details{
+    margin-left:35ch;
+    widows: 90%;
+  }}
+  
+  @media only screen and (max-width: 500px) {
+    .final{margin-right:-78ch ; }}
+
+
+    
